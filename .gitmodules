@@ -1,3 +1,6 @@
 [submodule "clase4submodulo"]
 	path = clase4submodulo
 	url = https://github.com/bocapo10/clase4submodulo.git
+[submodule "clase4logicaparasub"]
+	path = clase4logicaparasub
+	url = https://github.com/bocapo10/clase4logicaparasub.git
